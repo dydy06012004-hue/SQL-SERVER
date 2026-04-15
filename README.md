@@ -1,13 +1,13 @@
 # 🚀 Hành trình học SQL
 
 ## 📌 Giới thiệu
-Repo này ghi lại quá trình học SQL từng ngày của mình.
+Mình là sinh viên năm cuối ngành Kế toán tại EPU.
+Đây là nơi mình lưu trữ hành trình chuyển mình từ những con số nợ - có sang tư duy truy vấn dữ liệu bằng SQL Server. Repository này bao gồm các bài tập thực hành trên bộ dữ liệu AdventureWorks, tập trung vào kỹ năng lọc, sắp xếp và tối ưu hóa truy vấn để phục vụ cho định hướng trở thành Data Analyst.
 
 ## 📅 Danh sách buổi học
-
-- [Day 1 - tự điền vào đây 
-- [Day 2 - 
-- [Day 3 - 
+- [Day 1 - Tổng quan về phân tích dữ liệu- lý thuyết
+- [Day 2 - Tổng quan về CSDL-SQL- Lý thuyết
+- [Day 3 - Các câu lệnh truy vấn dữ liệu-Lý thuyết
 
 ## 🎯 Mục tiêu
 - Thành thạo SQL cơ bản → nâng cao
